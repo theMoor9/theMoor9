@@ -4,9 +4,7 @@
 
 I'll be brief, I am Kenneth a software dev which tryes to give his best to step up autonomously and I strongly believe that the most powerful way to achieve greatness is by being great people connecting with each other.
 
-As I'm working on building and developing various projects on my own, your feedback becomes incredibly important to me. Whether it's suggestions, bug reports, feature requests, or general comments, I would love to hear from you!
-
-Your input helps me improve and ensures that the tools and resources I create are as useful and effective as possible. Please take a moment to share your thoughts and experiences.
+As I'm working on building and developing various projects on my own, your feedback becomes incredibly important to me. Whether it's suggestions, bug reports, feature requests, or general comments. Please take a moment to share your thoughts and experiences.
 
 
 ## Providing Feedback
