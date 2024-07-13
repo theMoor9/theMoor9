@@ -17,7 +17,7 @@ Your input helps me improve and ensures that the tools and resources I create ar
 <br><br>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Index%20Pointing%20Up.png" alt="Index Pointing Up" width="17" height="17"> **General Feedback**: Any other thoughts or suggestions? Feel free to open a discussion or reach out via the Issues tab.
 
-<br>
+<br><br>
 Thank you for being a part of this journey and for helping me create better projects and improve my skill set. Your support and feedback are greatly appreciated!
 
 <br><br>
