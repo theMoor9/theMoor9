@@ -1,6 +1,6 @@
 # Welcome to My GitHub! <img src="https://em-content.zobj.net/source/microsoft-teams/337/eye_1f441-fe0f.png" alt="Eye" width="20" height="20">
 
-Ciao <img src="https://em-content.zobj.net/source/microsoft-teams/363/hand-with-fingers-splayed_1f590-fe0f.png" alt="Waving Hand" width="17" height="17">
+Ciao 🖐️
 
 I'll be brief, I am Kenneth a software dev which tryes to give his best to step up autonomously and I strongly believe that the most powerful way to achieve greatness is by being great people connecting with each other.
 
