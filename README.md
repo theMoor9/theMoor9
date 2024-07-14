@@ -18,4 +18,4 @@ As I'm working on building and developing various projects on my own, your feedb
 <br><br>
 Thank you for being a part of this and for helping me create better projects and improve my skill set. Your support and feedback are greatly appreciated! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="25" height="25">
 
-<img src="https://media1.giphy.com/labs/images/api.gif" alt="Technology" width="25" height="25">
+<img src="https://media1.giphy.com/labs/images/api.gif" alt="Technology" width="100" height="100">
