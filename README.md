@@ -1,7 +1,7 @@
 <img src="https://indoanalytica.com/static/images/bannerr.gif" alt="Eye" style="max-width: 100%; height: auto;">
 
 <div style="text-align: center;">
-  <h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="20" height="20" />Welcome to My GitHub Space! <img src="https://em-content.zobj.net/source/microsoft-teams/337/eye_1f441-fe0f.png" alt="Eye" width="20" height="20"></h1>
+  <h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="20" height="20" /> Welcome to My GitHub Space! <img src="https://em-content.zobj.net/source/microsoft-teams/337/eye_1f441-fe0f.png" alt="Eye" width="20" height="20"></h1>
   <p><img src="https://em-content.zobj.net/source/microsoft-teams/363/hand-with-fingers-splayed_1f590-fe0f.png" alt="Waving Hand" width="17" height="17"> Hi everyone!</p>
 </div>
 
