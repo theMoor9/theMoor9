@@ -1,4 +1,4 @@
-<img src="https://indoanalytica.com/static/images/bannerr.gif" alt="Eye" width="1900 " height="684">
+<img src="https://indoanalytica.com/static/images/bannerr.gif" alt="Eye" style="max-width: 100%; height: auto;">
 ## Welcome to My GitHub! <img src="https://em-content.zobj.net/source/microsoft-teams/337/eye_1f441-fe0f.png" alt="Eye" width="20" height="20">
 
 Ciao 🖐️
