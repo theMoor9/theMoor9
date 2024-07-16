@@ -6,8 +6,8 @@ a software dev which tryes to give his best to step up autonomously and I strong
 
 As I'm working on building and developing various projects on my own, your feedback becomes incredibly important to me. Whether it's suggestions, bug reports, feature requests, or general comments. Please take a moment to share your thoughts and experiences.
 
-
-## Providing Feedback
+<br><br>
+<h3> Providing Feedback </h3>
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Lady%20Beetle.png" alt="Lady Beetle" width="17" height="17"> **Report Bugs**: If you encounter any issues, please let me know through the Issues tabs in the respective repositories. Include as much detail as possible to help me understand and fix the problem quickly.
 <br><br>
