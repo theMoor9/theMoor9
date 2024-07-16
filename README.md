@@ -1,6 +1,6 @@
 
 <div align="center">  
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=2,8,12,13,14,16,20,21,22,23,24,25,30&text=🖐️%20Ciao,%20Welcome%20to%20My%20GitHub!&reversal=false&fontSize=29&textBg=false&animation=fadeIn&section=header&fontAlignY=30" alt="Header" style="max-width: auto; height: auto;"> 
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=24,22,25,30&text=🖐️%20Ciao,%20Welcome%20to%20My%20GitHub!&reversal=false&fontSize=29&textBg=false&animation=fadeIn&section=header&fontAlignY=30" alt="Header" style="max-width: auto; height: auto;"> 
 </div>
 <div align="center"> 
   <img src="https://em-content.zobj.net/source/microsoft-teams/337/eye_1f441-fe0f.png" alt="Eye" width="60" height="60">
@@ -29,5 +29,5 @@ Thank you for being a part of this and for helping me create better projects and
 <br><br>
 
 <div align="center">  
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=24&reversal=false&fontSize=30&textBg=false&animation=fadeIn&section=footer&fontAlignY=30" alt="Footer" style="max-width: auto; height: auto;"> 
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=24,22,25,30&reversal=false&fontSize=30&textBg=false&animation=fadeIn&section=footer&fontAlignY=30" alt="Footer" style="max-width: auto; height: auto;"> 
 </div>
