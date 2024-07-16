@@ -1,6 +1,6 @@
 
 <div align="center">  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=2,8,12,13,14,16,20,21,22,23,24,25,30&text=🖐️%20Ciao,%20Welcome%20to%20My%20Space!&reversal=false&fontSize=29&textBg=false&animation=fadeIn&section=header&fontAlignY=30" alt="Header" style="max-width: auto; height: auto;"> </div>
-<div>
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4EF729&center=true&vCenter=true&random=true&width=435&lines=Blockchain;Artificial+Intellingece;Smart+Solutions;Programmer;Software+Developer" alt="Eye" style="max-width: auto; height: auto;">
   <img src="https://em-content.zobj.net/source/microsoft-teams/337/eye_1f441-fe0f.png" alt="Eye" width="20" height="20">
 </div>
