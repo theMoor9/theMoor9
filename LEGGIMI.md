@@ -25,7 +25,7 @@ Mentre lavoro alla costruzione e allo sviluppo di vari progetti da solo, il vost
 
 <br><br>
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="50" height="50">
-Grazie per far parte di questo percorso e per aiutarmi a creare progetti migliori e a migliorare le mie competenze. Il vostro supporto e feedback sono molto apprezzati! 
+Grazie per aiutarmi a creare progetti migliori e a migliorare le mie competenze. Il vostro supporto e feedback sono molto apprezzati! 
 <br><br>
 
 <div align="center">  
