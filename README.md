@@ -1,4 +1,5 @@
-# Welcome to My GitHub! <img src="https://em-content.zobj.net/source/microsoft-teams/337/eye_1f441-fe0f.png" alt="Eye" width="20" height="20">
+<img src="https://indoanalytica.com/static/images/bannerr.gif" alt="Eye" width="20" height="20">
+## Welcome to My GitHub! <img src="https://em-content.zobj.net/source/microsoft-teams/337/eye_1f441-fe0f.png" alt="Eye" width="20" height="20">
 
 Ciao 🖐️
 
