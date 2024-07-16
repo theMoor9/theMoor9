@@ -1,5 +1,5 @@
 
-# Welcome to My GitHub Space! <img src="https://em-content.zobj.net/source/microsoft-teams/337/eye_1f441-fe0f.png" alt="Eye" width="20" height="20">
+# Welcome to My Space! <img src="https://em-content.zobj.net/source/microsoft-teams/337/eye_1f441-fe0f.png" alt="Eye" width="20" height="20">
 
 Ciao 🖐️
 
