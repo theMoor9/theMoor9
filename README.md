@@ -6,9 +6,9 @@
   <img src="https://em-content.zobj.net/source/microsoft-teams/337/eye_1f441-fe0f.png" alt="Eye" width="60" height="60">
 </div>
 <br><br>
-I'll be brief, I am Kenneth a software dev which tryes to give his best to step up autonomously and I strongly believe that the most powerful way to achieve greatness is by being great people connecting with each other.
+I'll be brief. I am Kenneth, a software developer who gives his best to grow independently. However, I strongly believe that the most powerful way to achieve greatness is by connecting and collaborating with remarkable people. The balance between challenge and connection is something I seek with the utmost passion.
 <br><br>
-As I'm working on building and developing various projects on my own, your feedback becomes incredibly important to me. Whether it's suggestions, bug reports, feature requests, or general comments. Please take a moment to share your thoughts and experiences.
+That's why, as I work on building and developing various projects on my own, your feedback becomes incredibly important to me. Whether it's suggestions, bug reports, feature requests, or general comments, please take a moment to share your thoughts and experiences.
 <br><br><br>
 
 <h3> Providing Feedback </h3>
