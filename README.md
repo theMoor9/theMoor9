@@ -10,7 +10,7 @@ As I'm working on building and developing various projects on my own, your feedb
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4EF729&center=true&vCenter=true&random=true&width=435&lines=Blockchain;Artificial+Intellingece;Smart+Solutions;Programming;Software+Engineering" alt="Eye" style="max-width: auto; height: auto;">
   <img src="https://em-content.zobj.net/source/microsoft-teams/337/eye_1f441-fe0f.png" alt="Eye" width="20" height="20">
 </div>
-<br>
+
 <h3> Providing Feedback </h3>
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Lady%20Beetle.png" alt="Lady Beetle" width="17" height="17"> **Report Bugs**: If you encounter any issues, please let me know through the Issues tabs in the respective repositories. Include as much detail as possible to help me understand and fix the problem quickly.
