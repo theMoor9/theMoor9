@@ -16,7 +16,7 @@ As I'm working on building and developing various projects on my own, your feedb
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Lady%20Beetle.png" alt="Lady Beetle" width="17" height="17"> **Report Bugs**: If you encounter any issues, please let me know through the Issues tabs in the respective repositories. Include as much detail as possible to help me understand and fix the problem quickly.
 <br><br>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="17" height="17"> **Suggest Features**: Have an idea for a new feature? Submit a feature request in the Issues tabs of the relevant repositories.
-<br>
+<br><br>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Index%20Pointing%20Up.png" alt="Index Pointing Up" width="17" height="17"> **General Feedback**: Any other thoughts or suggestions? Feel free to open a discussion or reach out via the Issues tab.
 <br><br><br>
 
