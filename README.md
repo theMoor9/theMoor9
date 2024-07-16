@@ -1,6 +1,6 @@
 <img src="https://indoanalytica.com/static/images/bannerr.gif" alt="Eye" style="max-width: 100%; height: auto;">
 
-<div style="align: center;">
+<div style="align: center;align-items: center;">
   <h1>Welcome to My GitHub Space! <img src="https://em-content.zobj.net/source/microsoft-teams/337/eye_1f441-fe0f.png" alt="Eye" width="20" height="20"></h1>
 </div>
 
