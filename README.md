@@ -18,11 +18,12 @@ As I'm working on building and developing various projects on my own, your feedb
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="17" height="17"> **Suggest Features**: Have an idea for a new feature? Submit a feature request in the Issues tabs of the relevant repositories.
 <br><br>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Index%20Pointing%20Up.png" alt="Index Pointing Up" width="17" height="17"> **General Feedback**: Any other thoughts or suggestions? Feel free to open a discussion or reach out via the Issues tab.
-<br><br>
+<br><br><br>
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4EF729&center=true&vCenter=true&random=true&width=435&lines=Blockchain+Protocols;Artificial+Intelligence;Smart+Solutions;Programming;Software+Engineering" alt="List" style="max-width: auto; height: auto;">
 </div>
 <br><br>
+
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="50" height="50">
 Thank you for being a part of this and for helping me create better projects and improve my skill set. Your support and feedback are greatly appreciated! 
 <br><br>
