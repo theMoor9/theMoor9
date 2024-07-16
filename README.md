@@ -8,7 +8,7 @@
 <br><br>
 I am Kenneth, 
 a software dev which tryes to give his best to step up autonomously and I strongly believe that the most powerful way to achieve greatness is by being great people connecting with each other.
-<br>
+<br><br>
 As I'm working on building and developing various projects on my own, your feedback becomes incredibly important to me. Whether it's suggestions, bug reports, feature requests, or general comments. Please take a moment to share your thoughts and experiences.
 <br><br><br>
 
