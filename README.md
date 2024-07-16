@@ -29,5 +29,5 @@ Thank you for being a part of this and for helping me create better projects and
 <br><br>
 
 <div align="center">  
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=22&reversal=false&fontSize=29&textBg=false&animation=fadeIn&section=footer&fontAlignY=30" alt="Footer" style="max-width: auto; height: auto;"> 
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=25&reversal=false&fontSize=29&textBg=false&animation=fadeIn&section=footer&fontAlignY=30" alt="Footer" style="max-width: auto; height: auto;"> 
 </div>
