@@ -1,6 +1,6 @@
 
-<h1 align="center">  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=🖐️%20Ciao,%20Welcome%20to%20My%20Space!&reversal=false&fontSize=29&textBg=false&animation=fadeIn" alt="Header" width="200" height="200"> <img src="https://em-content.zobj.net/source/microsoft-teams/337/eye_1f441-fe0f.png" alt="Eye" width="20" height="20"> </h1>
-
+<h1 align="center">  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=🖐️%20Ciao,%20Welcome%20to%20My%20Space!&reversal=false&fontSize=29&textBg=false&animation=fadeIn" alt="Header" style="max-width: 100%; height: auto;"> </h1>
+<img src="https://em-content.zobj.net/source/microsoft-teams/337/eye_1f441-fe0f.png" alt="Eye" width="20" height="20">
 I am Kenneth, 
 a software dev which tryes to give his best to step up autonomously and I strongly believe that the most powerful way to achieve greatness is by being great people connecting with each other.
 
