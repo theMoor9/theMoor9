@@ -13,7 +13,7 @@ As I'm working on building and developing various projects on my own, your feedb
 <br><br><br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4EF729&center=true&vCenter=true&random=true&width=435&lines=Blockchain+Protocols;Artificial+Intellingece;Smart+Solutions;Programming;Software+Engineering" alt="List" style="max-width: auto; height: auto;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4EF729&center=true&vCenter=true&random=true&width=435&lines=Blockchain+Protocols;Artificial+Intelligence;Smart+Solutions;Programming;Software+Engineering" alt="List" style="max-width: auto; height: auto;">
 </div>
 <br>
 
@@ -30,3 +30,6 @@ As I'm working on building and developing various projects on my own, your feedb
 Thank you for being a part of this and for helping me create better projects and improve my skill set. Your support and feedback are greatly appreciated! 
 <br><br>
 
+<div align="center">  
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=2,8,12,13,14,16,20,21,22,23,24,25,30&reversal=false&fontSize=29&textBg=false&animation=fadeIn&section=footer&fontAlignY=30" alt="Footer" style="max-width: auto; height: auto;"> 
+</div>
