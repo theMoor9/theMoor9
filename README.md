@@ -4,7 +4,6 @@
 </div>
 <div align="center"> 
   <img src="https://em-content.zobj.net/source/microsoft-teams/337/eye_1f441-fe0f.png" alt="Eye" width="60" height="60">
-  <img src="https://em-content.zobj.net/source/microsoft-teams/337/eye_1f441-fe0f.png" alt="Eye2" width="60" height="60">
 </div>
 <br><br>
 I'll be brief. I am Kenneth, a software developer who gives his best to grow independently and push beyond limits. However, I strongly believe that the most powerful way to achieve greatness is by connecting and collaborating with remarkable people. The balance between challenge and connection is something I seek with the utmost passion.
