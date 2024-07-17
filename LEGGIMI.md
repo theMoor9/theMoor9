@@ -5,9 +5,9 @@
   <img src="https://em-content.zobj.net/source/microsoft-teams/337/eye_1f441-fe0f.png" alt="Eye" width="60" height="60">
 </div>
 <br><br>
-Sarò breve, sono Kenneth, uno sviluppatore software che cerca di dare il massimo per migliorare autonomamente e credo fermamente che il modo più potente per raggiungere la grandezza sia attraverso la connessione tra persone straordinarie.
+Sarò breve, sono Kenneth, uno sviluppatore software che cerca di dare il massimo per migliorare autonomamente e credo fermamente che il modo più potente per raggiungere la grandezza sia connettersi e ricevere feedback da persone d' ispirazione. L'equilibrio tra sfida e connessione è qualcosa che perseguo con la massima passione.
 <br><br>
-Mentre lavoro alla costruzione e allo sviluppo di vari progetti da solo, il vostro feedback diventa incredibilmente importante per me. Che si tratti di suggerimenti, segnalazioni di bug, richieste di funzionalità o commenti generali. Vi prego di prendere un momento per condividere i vostri pensieri e le vostre esperienze.
+Perciò mentre lavoro alla costruzione e allo sviluppo di vari progetti da solo, il vostro feedback diventa incredibilmente importante per me. Che si tratti di suggerimenti, segnalazioni di bug, richieste di funzionalità o commenti generali. Vi prego di prendere un momento per condividere i vostri pensieri e le vostre esperienze.
 <br><br><br>
 
 <div align="center">
