@@ -21,7 +21,7 @@ That's why, as I work on building and developing various projects on my own, you
 <br><br><br>
 
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="50" height="50"> ![](https://komarev.com/ghpvc/?username=theMoor9&style=plastic&color=70e000&label=All+Time+Profile+Views)
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="50" height="50"> ![](https://komarev.com/ghpvc/?username=theMoor9&style=plastic&color=70e000&label=All+Time+Profile+Visits)
 
 Thank you for being a part of this and for helping me create better projects and improve my skill set. Your support and feedback are greatly appreciated! 
 <br><br>
